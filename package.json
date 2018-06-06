@@ -32,5 +32,9 @@
     "webpack": "^4.11.0",
     "webpack-cli": "^3.0.2",
     "webpack-dev-server": "^3.1.4"
+  },
+  "dependencies": {
+    "react-tabs": "^2.2.2",
+    "react-twitter-widgets": "^1.7.1"
   }
 }
